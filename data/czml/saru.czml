@@ -1,0 +1,274 @@
+[
+    {
+        "id": "document",
+        "name": "saru",
+        "version": "1.0"
+    },
+    {
+        "id": "saru1",
+        "availability": "2015-01-05T08:19:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ニホンザル",
+        "description": "<p class=\"date\">2015.1.5 8:19</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/--qgGu2SouuI/VqffkNfjrmI/AAAAAAAHPGo/mjnD_pWveaA/s72-Ic42/saru.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.76916666667,
+                35.516388888889,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ニホンザル"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.76916666667,
+                    35.516388888889,
+                    1800,
+                    138.76916666667,
+                    35.516388888889,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "saru2",
+        "availability": "2015-09-21T18:23:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ニホンザル",
+        "description": "<p class=\"date\">2015.9.21 18:23</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/--qgGu2SouuI/VqffkNfjrmI/AAAAAAAHPGo/mjnD_pWveaA/s72-Ic42/saru.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7088841,
+                35.5071882,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ニホンザル"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7088841,
+                    35.5071882,
+                    1800,
+                    138.7088841,
+                    35.5071882,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "saru3",
+        "availability": "2016-01-23T15:47:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ニホンザル",
+        "description": "<p class=\"date\">2016.1.23 15:47</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/--qgGu2SouuI/VqffkNfjrmI/AAAAAAAHPGo/mjnD_pWveaA/s72-Ic42/saru.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7665,
+                35.538821666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ニホンザル"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7665,
+                    35.538821666667,
+                    1800,
+                    138.7665,
+                    35.538821666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

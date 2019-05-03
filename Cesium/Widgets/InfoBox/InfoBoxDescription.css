@@ -1,0 +1,94 @@
+body {margin: 0; padding: 0;} .cesium-infoBox-description {font-family: sans-serif; font-size: 13px; padding: 4px 10px; margin-right: 4px; color: #000;} .cesium-infoBox-description a:link, .cesium-infoBox-description a:visited, .cesium-infoBox-description a:hover, .cesium-infoBox-description a:active {color: #edffff;} .cesium-infoBox-description table {color: #edffff;} .cesium-infoBox-defaultTable {width: 100%; color: #edffff;} .cesium-infoBox-defaultTable tr:nth-child(odd) {background-color: rgba(84, 84, 84, 0.8);} .cesium-infoBox-defaultTable tr:nth-child(even) {background-color: rgba(84, 84, 84, 0.25);} .cesium-infoBox-defaultTable th {font-weight: normal; padding: 3px; vertical-align: middle; text-align: center;} .cesium-infoBox-defaultTable td {padding: 3px; vertical-align: middle; text-align: left;} .cesium-infoBox-description-lighter {color: #000000;} .cesium-infoBox-description-lighter a:link, .cesium-infoBox-description-lighter a:visited, .cesium-infoBox-description-lighter a:hover, .cesium-infoBox-description-lighter a:active {color: #000000;} .cesium-infoBox-description-lighter table {color: #000000;} .cesium-infoBox-defaultTable-lighter {width: 100%; color: #000000;} .cesium-infoBox-defaultTable-lighter tr:nth-child(odd) {background-color: rgba(179, 179, 179, 0.8);} .cesium-infoBox-defaultTable-lighter tr:nth-child(even) {background-color: rgba(179, 179, 179, 0.25);}
+
+body {
+	background-color: transparent;
+}
+
+.balloon {
+	margin:0px;
+	padding:0px;
+	height:367px;
+}
+
+p.faceimage{
+	text-align:center;
+	padding:0;
+	margin:8px 0px 5px 0px;
+}
+
+p.video {
+	margin:5px 0px;
+	padding:0px;
+	text-align:center;
+	width:100%;
+	height:163px;
+}
+
+img.faceimage{
+	padding:0;
+	margin:0;
+}
+
+div.shogen{
+	margin:0;
+	padding:0;
+	height:367px;
+	-webkit-overflow-scrolling: touch;
+}
+
+p.home{
+	font-size:10px;
+	text-align:right;
+	line-height:10px;
+	margin:0px;
+}
+
+p.birth{
+	font-size:10px;
+	text-align:right;
+	line-height:10px;
+	margin:0px;
+}
+
+p.subject{
+	font-size:16px;
+	text-align:center;
+	font-weight:bold;
+}
+
+p.shogen{
+	text-indent:1em;
+	color:black;
+	font-size:14px;
+	line-height:1.7em;
+}
+
+p.yomitan{
+	color:black;
+	text-align:center;
+	font-size:14px;
+	line-height:16px;
+}
+
+p.photograph {
+	margin:0px;
+	padding:0px;
+	margin:8px 0px 5px 0px;
+}
+
+p.description {
+	width:100%;
+	color:#000;
+	font-size:12px;
+}
+
+p.credit {
+	width:100%;
+	color:#000;
+	font-size:10px;
+	text-align:center;
+}
+
+img.photograph {
+	width:100%;
+}

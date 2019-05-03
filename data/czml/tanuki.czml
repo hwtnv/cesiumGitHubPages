@@ -1,0 +1,5703 @@
+[
+    {
+        "id": "document",
+        "name": "tanuki",
+        "version": "1.0"
+    },
+    {
+        "id": "tanuki1",
+        "availability": "2014-09-02T11:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.9.2 11:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6066494,
+                35.443782,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6066494,
+                    35.443782,
+                    1800,
+                    138.6066494,
+                    35.443782,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki2",
+        "availability": "2014-11-08T07:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.11.8 07:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.9181307,
+                35.338547,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.9181307,
+                    35.338547,
+                    1800,
+                    138.9181307,
+                    35.338547,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki3",
+        "availability": "2014-11-09T09:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.11.9 09:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6098605,
+                35.2896784,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6098605,
+                    35.2896784,
+                    1800,
+                    138.6098605,
+                    35.2896784,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki4",
+        "availability": "2014-11-14T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.11.14 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6093933,
+                35.4586198,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6093933,
+                    35.4586198,
+                    1800,
+                    138.6093933,
+                    35.4586198,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki5",
+        "availability": "2014-11-26T19:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.11.26 19:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.65,
+                35.273611111111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.65,
+                    35.273611111111,
+                    1800,
+                    138.65,
+                    35.273611111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki6",
+        "availability": "2014-11-27T18:48:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.11.27 18:48</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.77333333333,
+                35.506944444444,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.77333333333,
+                    35.506944444444,
+                    1800,
+                    138.77333333333,
+                    35.506944444444,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki7",
+        "availability": "2014-12-17T15:46:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.12.17 15:46</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.77805555556,
+                35.453333333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.77805555556,
+                    35.453333333333,
+                    1800,
+                    138.77805555556,
+                    35.453333333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki8",
+        "availability": "2014-12-18T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.12.18 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.65694444444,
+                35.275,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.65694444444,
+                    35.275,
+                    1800,
+                    138.65694444444,
+                    35.275,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki9",
+        "availability": "2014-12-21T16:08:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.12.21 16:08</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6275,
+                35.304166666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6275,
+                    35.304166666667,
+                    1800,
+                    138.6275,
+                    35.304166666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki10",
+        "availability": "2014-12-25T09:53:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2014.12.25 09:53</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.75694444444,
+                35.521666666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.75694444444,
+                    35.521666666667,
+                    1800,
+                    138.75694444444,
+                    35.521666666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki11",
+        "availability": "2015-01-14T08:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.1.14 08:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.71,
+                35.481666666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.71,
+                    35.481666666667,
+                    1800,
+                    138.71,
+                    35.481666666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki12",
+        "availability": "2015-01-31T09:53:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.1.31 09:53</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6697222,
+                35.4780224,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6697222,
+                    35.4780224,
+                    1800,
+                    138.6697222,
+                    35.4780224,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki13",
+        "availability": "2015-03-06T05:47:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.3.6 05:47</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8126289,
+                35.452297,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8126289,
+                    35.452297,
+                    1800,
+                    138.8126289,
+                    35.452297,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki14",
+        "availability": "2015-03-14T11:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.3.14 11:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.912824,
+                35.32059,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.912824,
+                    35.32059,
+                    1800,
+                    138.912824,
+                    35.32059,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki15",
+        "availability": "2015-03-15T05:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.3.15 05:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.60194444444,
+                35.437777777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.60194444444,
+                    35.437777777778,
+                    1800,
+                    138.60194444444,
+                    35.437777777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki16",
+        "availability": "2015-03-31T01:07:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.3.31 01:07</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7417072,
+                35.4539413,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7417072,
+                    35.4539413,
+                    1800,
+                    138.7417072,
+                    35.4539413,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki17",
+        "availability": "2015-04-01T09:10:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.4.1 09:10</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.859677,
+                35.3743001,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.859677,
+                    35.3743001,
+                    1800,
+                    138.859677,
+                    35.3743001,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki18",
+        "availability": "2015-04-01T09:22:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.4.1 09:22</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.87194444444,
+                35.322222222222,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.87194444444,
+                    35.322222222222,
+                    1800,
+                    138.87194444444,
+                    35.322222222222,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki19",
+        "availability": "2015-04-02T14:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.4.2 14:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.5858461,
+                35.4740045,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.5858461,
+                    35.4740045,
+                    1800,
+                    138.5858461,
+                    35.4740045,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki20",
+        "availability": "2015-05-04T21:57:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.5.4 21:57</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8179611,
+                35.4409834,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8179611,
+                    35.4409834,
+                    1800,
+                    138.8179611,
+                    35.4409834,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki21",
+        "availability": "2015-05-06T07:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.5.6 07:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8128399,
+                35.2589121,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8128399,
+                    35.2589121,
+                    1800,
+                    138.8128399,
+                    35.2589121,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki22",
+        "availability": "2015-09-24T12:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.9.24 12:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.57238666667,
+                35.387366666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.57238666667,
+                    35.387366666667,
+                    1800,
+                    138.57238666667,
+                    35.387366666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki23",
+        "availability": "2015-10-01T09:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.10.1 09:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.60762166667,
+                35.460668333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.60762166667,
+                    35.460668333333,
+                    1800,
+                    138.60762166667,
+                    35.460668333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki24",
+        "availability": "2015-10-05T21:10:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.10.5 21:10</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.65558166667,
+                35.499148333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.65558166667,
+                    35.499148333333,
+                    1800,
+                    138.65558166667,
+                    35.499148333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki25",
+        "availability": "2015-10-25T21:21:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.10.25 21:21</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.76259333333,
+                35.48236,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.76259333333,
+                    35.48236,
+                    1800,
+                    138.76259333333,
+                    35.48236,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki26",
+        "availability": "2015-11-12T10:15:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.11.12 10:15</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.63930555556,
+                35.288166666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.63930555556,
+                    35.288166666667,
+                    1800,
+                    138.63930555556,
+                    35.288166666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki27",
+        "availability": "2015-12-16T00:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.12.16 00:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6494921,
+                35.2816448,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6494921,
+                    35.2816448,
+                    1800,
+                    138.6494921,
+                    35.2816448,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki28",
+        "availability": "2015-12-19T21:05:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2015.12.19 21:05</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.89549166667,
+                35.335933333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.89549166667,
+                    35.335933333333,
+                    1800,
+                    138.89549166667,
+                    35.335933333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki29",
+        "availability": "2016-03-03T18:32:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.3.3 18:32</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.86417222222,
+                35.400180555556,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.86417222222,
+                    35.400180555556,
+                    1800,
+                    138.86417222222,
+                    35.400180555556,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki30",
+        "availability": "2016-03-24T07:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.3.24 07:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.86345,
+                35.361745,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.86345,
+                    35.361745,
+                    1800,
+                    138.86345,
+                    35.361745,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki31",
+        "availability": "2016-05-16T10:58:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.5.16 10:58</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.75408333333,
+                35.455236111111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.75408333333,
+                    35.455236111111,
+                    1800,
+                    138.75408333333,
+                    35.455236111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki32",
+        "availability": "2016-06-27T04:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.6.27 04:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.70302833333,
+                35.480441666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.70302833333,
+                    35.480441666667,
+                    1800,
+                    138.70302833333,
+                    35.480441666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki33",
+        "availability": "2016-08-30T12:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.8.30 12:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.83438333333,
+                35.439977777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.83438333333,
+                    35.439977777778,
+                    1800,
+                    138.83438333333,
+                    35.439977777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki34",
+        "availability": "2016-09-11T03:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.9.11 03:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8492067,
+                35.3277098,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8492067,
+                    35.3277098,
+                    1800,
+                    138.8492067,
+                    35.3277098,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki35",
+        "availability": "2016-09-11T03:31:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.9.11 03:31</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8457903,
+                35.3286123,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8457903,
+                    35.3286123,
+                    1800,
+                    138.8457903,
+                    35.3286123,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki36",
+        "availability": "2016-10-04T08:16:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.10.04 08:16</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8195906,
+                35.2604027,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8195906,
+                    35.2604027,
+                    1800,
+                    138.8195906,
+                    35.2604027,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki37",
+        "availability": "2016-10-24T00:49:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.10.24 00:49</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6141792,
+                35.4885764,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6141792,
+                    35.4885764,
+                    1800,
+                    138.6141792,
+                    35.4885764,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki38",
+        "availability": "2016-10-17T07:28:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.10.17 07:28</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8304,
+                35.44248,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8304,
+                    35.44248,
+                    1800,
+                    138.8304,
+                    35.44248,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki39",
+        "availability": "2016-10-31T09:25:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.10.31 09:25</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.75505,
+                35.452813888889,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.75505,
+                    35.452813888889,
+                    1800,
+                    138.75505,
+                    35.452813888889,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki40",
+        "availability": "2016-11-01T12:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.11.1 12:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7717412,
+                35.5321583,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7717412,
+                    35.5321583,
+                    1800,
+                    138.7717412,
+                    35.5321583,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki41",
+        "availability": "2016-11-03T08:56:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.11.3 08:56</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7473944,
+                35.452694,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7473944,
+                    35.452694,
+                    1800,
+                    138.7473944,
+                    35.452694,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki42",
+        "availability": "2016-11-08T20:57:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.11.8 20:57</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7385927,
+                35.4888917,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7385927,
+                    35.4888917,
+                    1800,
+                    138.7385927,
+                    35.4888917,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki43",
+        "availability": "2016-11-09T16:44:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.11.09 16:44</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6959187,
+                35.6136137,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6959187,
+                    35.6136137,
+                    1800,
+                    138.6959187,
+                    35.6136137,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki44",
+        "availability": "2016-12-03T09:17:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.12.3 09:17</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6710664,
+                35.5000213,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6710664,
+                    35.5000213,
+                    1800,
+                    138.6710664,
+                    35.5000213,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki45",
+        "availability": "2016-12-07T18:16:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.12.07 18:16</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.5951996,
+                35.2955123,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.5951996,
+                    35.2955123,
+                    1800,
+                    138.5951996,
+                    35.2955123,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki46",
+        "availability": "2016-12-09T06:29:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.12.09 06:29 (1)</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.5774994,
+                35.3600211,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.5774994,
+                    35.3600211,
+                    1800,
+                    138.5774994,
+                    35.3600211,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki47",
+        "availability": "2016-12-09T06:29:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.12.09 06:29 (2)</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.5775659,
+                35.3600089,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.5775659,
+                    35.3600089,
+                    1800,
+                    138.5775659,
+                    35.3600089,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki48",
+        "availability": "2016-11-12T05:54:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2016.11.12 05:54</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8293757,
+                35.4429941,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8293757,
+                    35.4429941,
+                    1800,
+                    138.8293757,
+                    35.4429941,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki49",
+        "availability": "2017-01-05T20:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.1.5 20:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.74850333333,
+                35.490481666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.74850333333,
+                    35.490481666667,
+                    1800,
+                    138.74850333333,
+                    35.490481666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki50",
+        "availability": "2017-01-13T07:25:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.1.13 07:25</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8182158,
+                35.4486723,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8182158,
+                    35.4486723,
+                    1800,
+                    138.8182158,
+                    35.4486723,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki51",
+        "availability": "2017-01-19T18:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.1.19 18:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.88921111111,
+                35.337338888889,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.88921111111,
+                    35.337338888889,
+                    1800,
+                    138.88921111111,
+                    35.337338888889,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki52",
+        "availability": "2017-01-21T12:56:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.1.21 12:56</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.734275,
+                35.524345,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.734275,
+                    35.524345,
+                    1800,
+                    138.734275,
+                    35.524345,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki53",
+        "availability": "2017-02-12T06:29:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.2.12 06:29</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.83747833333,
+                35.437836666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.83747833333,
+                    35.437836666667,
+                    1800,
+                    138.83747833333,
+                    35.437836666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki54",
+        "availability": "2017-02-15T07:58:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.2.15 07:58</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7239899,
+                35.4831036,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7239899,
+                    35.4831036,
+                    1800,
+                    138.7239899,
+                    35.4831036,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki55",
+        "availability": "2017-03-03T22:47:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.3.3 22:47</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.794266,
+                35.2798546,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.794266,
+                    35.2798546,
+                    1800,
+                    138.794266,
+                    35.2798546,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki56",
+        "availability": "2017-03-22T06:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.3.22 06:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8559408,
+                35.4157598,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8559408,
+                    35.4157598,
+                    1800,
+                    138.8559408,
+                    35.4157598,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki57",
+        "availability": "2017-04-15T09:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.4.15 09:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7019673,
+                35.5502481,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7019673,
+                    35.5502481,
+                    1800,
+                    138.7019673,
+                    35.5502481,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki58",
+        "availability": "2017-04-19T22:15:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "タヌキ",
+        "description": "<p class=\"date\">2017.4.19 22:15</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.75776666667,
+                35.523911111111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "タヌキ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.75776666667,
+                    35.523911111111,
+                    1800,
+                    138.75776666667,
+                    35.523911111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki59",
+        "availability": "2014-05-29T16:27:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "キツネ",
+        "description": "<p class=\"date\">2014.5.29 16:27</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6034379,
+                35.4399585,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "キツネ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6034379,
+                    35.4399585,
+                    1800,
+                    138.6034379,
+                    35.4399585,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki60",
+        "availability": "2014-12-28T08:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "キツネ",
+        "description": "<p class=\"date\">2014.12.28 08:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8552134,
+                35.3623666,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "キツネ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8552134,
+                    35.3623666,
+                    1800,
+                    138.8552134,
+                    35.3623666,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki61",
+        "availability": "2015-06-15T06:37:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "キツネ",
+        "description": "<p class=\"date\">2015.6.15 06:37</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.82539722222,
+                35.495430555556,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "キツネ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.82539722222,
+                    35.495430555556,
+                    1800,
+                    138.82539722222,
+                    35.495430555556,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki62",
+        "availability": "2015-11-07T10:19:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "キツネ",
+        "description": "<p class=\"date\">2015.11.7 10:19</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.76438833333,
+                35.51151,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "キツネ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.76438833333,
+                    35.51151,
+                    1800,
+                    138.76438833333,
+                    35.51151,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki63",
+        "availability": "2015-08-21T21:08:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アライグマ",
+        "description": "<p class=\"date\">2015.8.21 21:08</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.77622666667,
+                35.46438,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アライグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.77622666667,
+                    35.46438,
+                    1800,
+                    138.77622666667,
+                    35.46438,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "tanuki64",
+        "availability": "2016-09-01T19:23:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アライグマ",
+        "description": "<p class=\"date\">2016.9.1 19:23</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-T-HStXzCAMY/VqfflJd4dOI/AAAAAAAHPGo/FbzeCIoHDIE/s72-Ic42/tanuki.png",
+            "scale": 0.4,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.66383833333,
+                35.47764,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アライグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.66383833333,
+                    35.47764,
+                    1800,
+                    138.66383833333,
+                    35.47764,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

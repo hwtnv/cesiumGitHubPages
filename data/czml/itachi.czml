@@ -1,0 +1,5881 @@
+[
+    {
+        "id": "document",
+        "name": "itachi",
+        "version": "1.0"
+    },
+    {
+        "id": "itachi1",
+        "availability": "2014-08-01T12:29:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2014.8.1 12:29</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.768989,
+                35.4819111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.768989,
+                    35.4819111,
+                    1800,
+                    138.768989,
+                    35.4819111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi2",
+        "availability": "2014-08-01T13:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2014.8.1 13:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6786648,
+                35.4776497,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6786648,
+                    35.4776497,
+                    1800,
+                    138.6786648,
+                    35.4776497,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi3",
+        "availability": "2014-12-23T23:15:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2014.12.23 23:15</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7708881,
+                35.5207837,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7708881,
+                    35.5207837,
+                    1800,
+                    138.7708881,
+                    35.5207837,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi4",
+        "availability": "2015-04-02T14:23:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.4.2 14:23</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.605683,
+                35.4641552,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.605683,
+                    35.4641552,
+                    1800,
+                    138.605683,
+                    35.4641552,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi5",
+        "availability": "2015-05-06T07:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.5.6 07:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6120352,
+                35.2751057,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6120352,
+                    35.2751057,
+                    1800,
+                    138.6120352,
+                    35.2751057,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi6",
+        "availability": "2015-06-19T15:06:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.6.19 15:06</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.91381944444,
+                35.408066666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.91381944444,
+                    35.408066666667,
+                    1800,
+                    138.91381944444,
+                    35.408066666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi7",
+        "availability": "2015-09-22T08:48:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.9.22 08:48</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.64056333333,
+                35.486911666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.64056333333,
+                    35.486911666667,
+                    1800,
+                    138.64056333333,
+                    35.486911666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi8",
+        "availability": "2015-10-06T07:05:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.10.6 07:05</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.71066666667,
+                35.599206666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.71066666667,
+                    35.599206666667,
+                    1800,
+                    138.71066666667,
+                    35.599206666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi9",
+        "availability": "2015-11-28T08:18:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2015.11.28 08:18</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.76981111111,
+                35.539658333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.76981111111,
+                    35.539658333333,
+                    1800,
+                    138.76981111111,
+                    35.539658333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi10",
+        "availability": "2016-04-24T22:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.4.24 22:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.70977222222,
+                35.507105555556,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.70977222222,
+                    35.507105555556,
+                    1800,
+                    138.70977222222,
+                    35.507105555556,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi11",
+        "availability": "2016-07-03T11:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.3 11:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6072031,
+                35.2927418,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6072031,
+                    35.2927418,
+                    1800,
+                    138.6072031,
+                    35.2927418,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi12",
+        "availability": "2016-07-12T05:33:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.12 05:33</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8012879,
+                35.4683796,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8012879,
+                    35.4683796,
+                    1800,
+                    138.8012879,
+                    35.4683796,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi13",
+        "availability": "2016-07-12T08:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.12 08:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7724523,
+                35.4859811,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7724523,
+                    35.4859811,
+                    1800,
+                    138.7724523,
+                    35.4859811,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi14",
+        "availability": "2016-07-13T09:19:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.13 09:19</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8885477,
+                35.3364787,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8885477,
+                    35.3364787,
+                    1800,
+                    138.8885477,
+                    35.3364787,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi15",
+        "availability": "2016-07-16T08:25:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.16 08:25</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7094113,
+                35.5065646,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7094113,
+                    35.5065646,
+                    1800,
+                    138.7094113,
+                    35.5065646,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi16",
+        "availability": "2016-07-16T08:42:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.16 08:42</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7538302,
+                35.491194,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7538302,
+                    35.491194,
+                    1800,
+                    138.7538302,
+                    35.491194,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi17",
+        "availability": "2016-07-26T08:25:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.26 08:25</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.5776519,
+                35.3588878,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.5776519,
+                    35.3588878,
+                    1800,
+                    138.5776519,
+                    35.3588878,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi18",
+        "availability": "2016-07-26T09:03:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.7.26 09:03</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6318817,
+                35.4863101,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6318817,
+                    35.4863101,
+                    1800,
+                    138.6318817,
+                    35.4863101,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi19",
+        "availability": "2016-08-19T18:22:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.8.19 18:22</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.77475555556,
+                35.519166666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.77475555556,
+                    35.519166666667,
+                    1800,
+                    138.77475555556,
+                    35.519166666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi20",
+        "availability": "2016-10-25T19:34:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.10.25 19:34</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.70782333333,
+                35.506515,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.70782333333,
+                    35.506515,
+                    1800,
+                    138.70782333333,
+                    35.506515,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi21",
+        "availability": "2016-11-05T06:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2016.11.5 06:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8625612,
+                35.4098487,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8625612,
+                    35.4098487,
+                    1800,
+                    138.8625612,
+                    35.4098487,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi22",
+        "availability": "2017-02-05T08:08:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2017.2.5 08:08</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7678979,
+                35.4934332,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7678979,
+                    35.4934332,
+                    1800,
+                    138.7678979,
+                    35.4934332,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi23",
+        "availability": "2017-04-23T07:18:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ハクビシン",
+        "description": "<p class=\"date\">2017.4.23 07:18</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.86266388889,
+                35.459458333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ハクビシン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.86266388889,
+                    35.459458333333,
+                    1800,
+                    138.86266388889,
+                    35.459458333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi24",
+        "availability": "2014-08-28T13:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2014.8.28 13:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7565916,
+                35.463681,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7565916,
+                    35.463681,
+                    1800,
+                    138.7565916,
+                    35.463681,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi25",
+        "availability": "2014-12-26T09:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2014.12.26 09:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8179119,
+                35.4488034,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8179119,
+                    35.4488034,
+                    1800,
+                    138.8179119,
+                    35.4488034,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi26",
+        "availability": "2015-02-02T07:13:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.2.2 07:13</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.61055555556,
+                35.496111111111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.61055555556,
+                    35.496111111111,
+                    1800,
+                    138.61055555556,
+                    35.496111111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi27",
+        "availability": "2015-02-11T20:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.2.11 20:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.61611111111,
+                35.512777777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.61611111111,
+                    35.512777777778,
+                    1800,
+                    138.61611111111,
+                    35.512777777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi28",
+        "availability": "2015-02-25T07:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.2.25 07:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8344874,
+                35.4398796,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8344874,
+                    35.4398796,
+                    1800,
+                    138.8344874,
+                    35.4398796,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi29",
+        "availability": "2015-03-03T05:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.3.3 05:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8347758,
+                35.4396698,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8347758,
+                    35.4396698,
+                    1800,
+                    138.8347758,
+                    35.4396698,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi30",
+        "availability": "2016-03-24T01:17:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.3.24 01:17</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.83,
+                35.442777777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.83,
+                    35.442777777778,
+                    1800,
+                    138.83,
+                    35.442777777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi31",
+        "availability": "2015-03-26T09:15:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.3.26 09:15</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.82972222222,
+                35.442777777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.82972222222,
+                    35.442777777778,
+                    1800,
+                    138.82972222222,
+                    35.442777777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi32",
+        "availability": "2015-04-28T07:07:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.4.28 07:07</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.670317,
+                35.4779417,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.670317,
+                    35.4779417,
+                    1800,
+                    138.670317,
+                    35.4779417,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi33",
+        "availability": "2015-04-30T05:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.4.30 05:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.65751,
+                35.4992651,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.65751,
+                    35.4992651,
+                    1800,
+                    138.65751,
+                    35.4992651,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi34",
+        "availability": "2015-05-06T08:41:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.5.6 08:41</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8841651,
+                35.3431201,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8841651,
+                    35.3431201,
+                    1800,
+                    138.8841651,
+                    35.3431201,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi35",
+        "availability": "2015-06-23T07:35:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.6.23 07:35</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.81004833333,
+                35.330476666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.81004833333,
+                    35.330476666667,
+                    1800,
+                    138.81004833333,
+                    35.330476666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi36",
+        "availability": "2015-11-01T12:53:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.11.1 12:53</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.69551833333,
+                35.61377,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.69551833333,
+                    35.61377,
+                    1800,
+                    138.69551833333,
+                    35.61377,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi37",
+        "availability": "2015-12-05T07:32:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2015.12.5 07:32</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.73039333333,
+                35.514618333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.73039333333,
+                    35.514618333333,
+                    1800,
+                    138.73039333333,
+                    35.514618333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi38",
+        "availability": "2016-07-31T11:27:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.7.31 11:27</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.822698,
+                35.4790865,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.822698,
+                    35.4790865,
+                    1800,
+                    138.822698,
+                    35.4790865,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi39",
+        "availability": "2016-08-10T15:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.8.10 15:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6021625,
+                35.4379297,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6021625,
+                    35.4379297,
+                    1800,
+                    138.6021625,
+                    35.4379297,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi40",
+        "availability": "2016-08-31T08:27:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.8.31 08:27</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7712158,
+                35.5201108,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7712158,
+                    35.5201108,
+                    1800,
+                    138.7712158,
+                    35.5201108,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi41",
+        "availability": "2016-09-11T06:45:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.9.11 06:45</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7718803,
+                35.5406187,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7718803,
+                    35.5406187,
+                    1800,
+                    138.7718803,
+                    35.5406187,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi42",
+        "availability": "2016-09-23T11:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.9.23 11:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6409561,
+                35.4870152,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6409561,
+                    35.4870152,
+                    1800,
+                    138.6409561,
+                    35.4870152,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi43",
+        "availability": "2016-10-21T00:29:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.10.21 00:29</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8639128,
+                35.3934488,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8639128,
+                    35.3934488,
+                    1800,
+                    138.8639128,
+                    35.3934488,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi44",
+        "availability": "2016-11-04T08:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.11.4 08:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8228938,
+                35.4791186,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8228938,
+                    35.4791186,
+                    1800,
+                    138.8228938,
+                    35.4791186,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi45",
+        "availability": "2016-11-11T14:38:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "ホンドテン",
+        "description": "<p class=\"date\">2016.11.11 14:38</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7776259,
+                35.5270435,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "ホンドテン"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7776259,
+                    35.5270435,
+                    1800,
+                    138.7776259,
+                    35.5270435,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi46",
+        "availability": "2014-05-29T16:17:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2014.5.29 16:17</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.58361111111,
+                35.404444444444,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.58361111111,
+                    35.404444444444,
+                    1800,
+                    138.58361111111,
+                    35.404444444444,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi47",
+        "availability": "2014-06-27T08:40:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2014.6.27 08:40</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.61333333333,
+                35.481666666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.61333333333,
+                    35.481666666667,
+                    1800,
+                    138.61333333333,
+                    35.481666666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi48",
+        "availability": "2015-06-12T10:35:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.6.12 10:35</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.66042222222,
+                35.280191666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.66042222222,
+                    35.280191666667,
+                    1800,
+                    138.66042222222,
+                    35.280191666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi49",
+        "availability": "2015-06-13T07:53:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.6.13 07:53</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.60782777778,
+                35.450483333333,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.60782777778,
+                    35.450483333333,
+                    1800,
+                    138.60782777778,
+                    35.450483333333,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi50",
+        "availability": "2015-06-13T10:55:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.6.13 10:55</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.60783333333,
+                35.450769444444,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.60783333333,
+                    35.450769444444,
+                    1800,
+                    138.60783333333,
+                    35.450769444444,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi51",
+        "availability": "2015-06-14T08:44:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.6.14 08:44</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.704145,
+                35.604671666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.704145,
+                    35.604671666667,
+                    1800,
+                    138.704145,
+                    35.604671666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi52",
+        "availability": "2015-06-23T05:10:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.6.23 05:10</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.59254833333,
+                35.429586666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.59254833333,
+                    35.429586666667,
+                    1800,
+                    138.59254833333,
+                    35.429586666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi53",
+        "availability": "2015-07-21T08:11:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2015.7.21 08:11</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7621038,
+                35.4825294,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7621038,
+                    35.4825294,
+                    1800,
+                    138.7621038,
+                    35.4825294,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi54",
+        "availability": "2016-04-07T08:16:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.4.7 08:16</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.76941333333,
+                35.53955,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.76941333333,
+                    35.53955,
+                    1800,
+                    138.76941333333,
+                    35.53955,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi55",
+        "availability": "2016-05-08T06:28:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.5.8 06:28</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.8222546,
+                35.5057092,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.8222546,
+                    35.5057092,
+                    1800,
+                    138.8222546,
+                    35.5057092,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi56",
+        "availability": "2016-06-11T06:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.6.11 06:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.70398,
+                35.605175,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.70398,
+                    35.605175,
+                    1800,
+                    138.70398,
+                    35.605175,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi57",
+        "availability": "2016-06-16T06:44:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.6.16 06:44</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.821,
+                35.488177777778,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.821,
+                    35.488177777778,
+                    1800,
+                    138.821,
+                    35.488177777778,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi58",
+        "availability": "2016-06-16T08:57:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.6.16 08:57</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.61798333333,
+                35.483615,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.61798333333,
+                    35.483615,
+                    1800,
+                    138.61798333333,
+                    35.483615,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi59",
+        "availability": "2016-06-22T04:48:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.6.22 04:48</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.74296388889,
+                35.309194444444,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.74296388889,
+                    35.309194444444,
+                    1800,
+                    138.74296388889,
+                    35.309194444444,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi60",
+        "availability": "2016-06-23T08:34:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.6.23 08:34</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.75699444444,
+                35.452730555556,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.75699444444,
+                    35.452730555556,
+                    1800,
+                    138.75699444444,
+                    35.452730555556,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi61",
+        "availability": "2016-09-07T14:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.9.7 14:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.7666997,
+                35.5138561,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.7666997,
+                    35.5138561,
+                    1800,
+                    138.7666997,
+                    35.5138561,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi62",
+        "availability": "2016-09-25T06:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.9.25 06:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6322443,
+                35.4292397,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6322443,
+                    35.4292397,
+                    1800,
+                    138.6322443,
+                    35.4292397,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi63",
+        "availability": "2016-10-18T21:24:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2016.10.18 21:24</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6195325,
+                35.4864526,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6195325,
+                    35.4864526,
+                    1800,
+                    138.6195325,
+                    35.4864526,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi64",
+        "availability": "2017-04-22T08:08:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "アナグマ",
+        "description": "<p class=\"date\">2017.4.22 08:08</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.6759579,
+                35.5015373,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "アナグマ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.6759579,
+                    35.5015373,
+                    1800,
+                    138.6759579,
+                    35.5015373,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi65",
+        "availability": "2017-04-21T08:15:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "イタチ",
+        "description": "<p class=\"date\">2017.4.21 08:15</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.57202166667,
+                35.386936666667,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "イタチ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.57202166667,
+                    35.386936666667,
+                    1800,
+                    138.57202166667,
+                    35.386936666667,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "itachi66",
+        "availability": "2017-04-21T08:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "イタチ",
+        "description": "<p class=\"date\">2017.4.21 08:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://lh3.googleusercontent.com/-PWBgOhTXuOM/VqffjCy2PoI/AAAAAAAHPGo/UGKqjyUqsdc/s72-Ic42/itachi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.57201388889,
+                35.386736111111,
+                1800
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "イタチ"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.57201388889,
+                    35.386736111111,
+                    1800,
+                    138.57201388889,
+                    35.386736111111,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
