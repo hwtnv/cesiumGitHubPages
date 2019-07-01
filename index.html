@@ -234,10 +234,14 @@
 		var layers;
 
 		function loadCesium() {
+            Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIzZjdkOGRkYi1hYzIxLTQ4MDMtYjZiMC0zODg5YjI2ZTRlZjIiLCJpZCI6MjgyLCJzY29wZXMiOlsiYXNsIiwiYXNyIiwiYXN3IiwiZ2MiXSwiaWF0IjoxNTYyMDEyNTIyfQ.aVsGtowVeK_5C25G5-WCK7bZHyfXUl_zQ5Ud7TKsq0U';
 			viewer = new Cesium.Viewer('cesiumContainer', {
 				imageryProvider: new Cesium.ArcGisMapServerImageryProvider({
 					url: '//server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer',
 					enablePickFeatures: false
+				}),
+				terrainProvider: new Cesium.CesiumTerrainProvider({
+					url: Cesium.IonResource.fromAssetId(1)
 				}),
 				navigationHelpButton: false,
 				navigationInstructionsInitiallyVisible: false,
@@ -254,20 +258,6 @@
 			//地形にエンティティが潜るように設定
 
 			viewer.scene.globe.depthTestAgainstTerrain = true;
-
-			//地形メッシュを設定
-
-			var cesiumTerrainProviderMeshes = new Cesium.createWorldTerrain({
-				requestWaterMask: false,
-				requestVertexNormals: false,
-				heightmapTerrainQuality: 0.5
-			});
-			viewer.terrainProvider = cesiumTerrainProviderMeshes;
-			viewer.terrainProvider.heightmapTerrainQuality = 0.1;
-
-			//地形を強調する際は値を変更
-
-			viewer.terrainExaggeration = 1.0;
 
 			//フォグ
 
