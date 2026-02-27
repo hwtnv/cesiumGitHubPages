@@ -1,30 +1,49 @@
 富士山「動物交通事故死」マップ
 ======================
-富士山麓で起きた野生動物の交通事故の場所と動物の種類のマップです。[富士山アウトドアミュージアム](https://www.facebook.com/fom3776)が収集したデータを元に、[首都大学東京渡邉英徳研究室](http://labo.wtnv.jp)がコンテンツを制作しました。
 
-首都大学東京の授業教材として用いている以下のリポジトリを元にしています。
+富士山麓で発生した野生動物の交通事故位置と種類を可視化する、Cesiumベースのデジタルアーカイブです。  
+富士山アウトドアミュージアム収集データをもとに制作されています。
 
-+ [Cesiumを使ったKML可視化のサンプル](https://github.com/wtnv-lab/cesiumGitHubPages "Cesiumを使ったKML可視化のサンプル")
+## 現在の主な仕様
 
-KmlDataSourceをCzmlDataSourceに変更するなどの改造を施しています。ご興味のあるかたは参考リンクの[Cesium](http://cesiumjs.org/ "Cesium")にあるリファレンスをご覧ください。
+- Cesium `Viewer` を利用した3D地球儀表示
+- CZMLデータの時系列再生
+- ビルボードクリック時の独自モーダル表示（ビルボード位置付近に追従）
+- ジオコーディング検索
+- レイヤ透過スライダー（OSMオーバーレイ）
+- Street View連携（Google Maps API利用時）
 
-### 使い方
+## 使い方
 
-視点移動、ジオコーディング、ImageryLayerの切り替え、ストリートビュー起動、ヘルプ起動の各機能が実装されています。
+- 視点移動・GitHubへのリンク: 左上メニューボタン
+- ジオコーディング: 左上フォーム
+- レイヤ切り替え: 右上パラメータボタン
+- ヘルプ: 右上 `?` ボタン
 
-+ 視点移動・GitHubへのリンク：左上のメニューボタン
-+ ジオコーディング：左上のフォーム
-+ レイヤ切り替え：右上のパラメータボタン
-+ ヘルプ起動：右上の「？」ボタン
+## 依存設定
 
-### 参考リンク
+`index.html` 内で以下を参照しています。
 
-1. [公式ウェブサイト](http://animal.mapping.jp/ "富士山「動物交通事故死」マップ")
-2. [GitHub Pagesでの閲覧](http://hwtnv.github.io/cesiumGitHubPages/ "富士山「動物交通事故死」マップ")
-3. [Cesium](http://cesiumjs.org/ "Cesium")
+- Cesium Ion Access Token
+- Google Maps API Key
+- CZML内ビルボード画像（Google Cloud / `lh3.googleusercontent.com`）
 
-### ライセンス
+注: ビルボード画像は外部URL依存のため、ネットワークや参照先状態によって表示できない場合があります。
 
-首都大学東京 渡邉英徳研究室✕富士山アウトドアミュージアム 作『富士山「動物交通事故死」マップ』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
+## ベース
 
-+ [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+以下の教材リポジトリをベースに、KMLからCZMLへの変更などを行っています。
+
+- [Cesiumを使ったKML可視化のサンプル](https://github.com/wtnv-lab/cesiumGitHubPages)
+
+## 参考リンク
+
+1. [公式ウェブサイト](http://animal.mapping.jp/)
+2. [GitHub Pages](http://hwtnv.github.io/cesiumGitHubPages/)
+3. [Cesium](https://cesium.com/)
+
+## ライセンス
+
+本コンテンツは CC BY-NC-SA 4.0 で提供されています。
+
+- [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
