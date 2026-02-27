@@ -230,16 +230,36 @@
 		var czmlSourceList = "";
 
 		for (var i = 0; i < czmlDataArray.length; i++) {
-			czmlSourceList = czmlSourceList + '<label for="' + czmlDataArray[i].label + '"><input type="checkbox" class="chbox" checked="checked" id="' + czmlDataArray[i].label + '">' + czmlDataArray[i].label + '</label><br />';
+			czmlSourceList = czmlSourceList + '<label for="' + czmlDataArray[i].label + '"><input type="checkbox" class="chbox" checked="checked" data-index="' + i + '" id="' + czmlDataArray[i].label + '">' + czmlDataArray[i].label + '</label><br />';
 		}
 
 		var dataSourceListHtml = '<form name="check_box">' + czmlSourceList + '</form>';
 		dataSourceMenu.innerHTML = dataSourceListHtml;
 
+		function applyCzmlVisibility(index, isVisible) {
+			czmlVisibility[index] = !!isVisible;
+			var dataSource = czmlSourceInstances[index];
+			if (!dataSource) {
+				return;
+			}
+			dataSource.show = czmlVisibility[index];
+			if (dataSource.entities && dataSource.entities.values) {
+				var entities = dataSource.entities.values;
+				for (var j = 0, len = entities.length; j < len; j++) {
+					entities[j].show = czmlVisibility[index];
+				}
+			}
+			if (viewer && viewer.scene) {
+				viewer.scene.requestRender();
+			}
+		}
+
 		//オーバレイ配列を用意
 
 		var overlayDataArray = [];
 		var openStreetMap = [];
+		var czmlSourceInstances = [];
+		var czmlVisibility = [];
 
 		//ビューア初期化
 
@@ -446,9 +466,12 @@
 				var i = 0;
 				var load = setInterval(function () {
 					var sourceIndex = i;
+					czmlVisibility[sourceIndex] = true;
 					var czmlDataSource = new Cesium.CzmlDataSource();
 					var promise = czmlDataSource.load(czmlDataArray[sourceIndex].url);
 					promise.then(function (dataSource) {
+						czmlSourceInstances[sourceIndex] = dataSource;
+						applyCzmlVisibility(sourceIndex, czmlVisibility[sourceIndex] !== false);
 						viewer.dataSources.add(dataSource);
 					}).otherwise(function (error) {
 						alert('CZMLデータが読み込めません');
@@ -753,18 +776,25 @@
 
 		//レイヤ切り替え
 		function dataSources() {
-			var dataSources = viewer.dataSources._dataSources;
-
-			$("#slideMenuCheckBox :checkbox").click(function () {
-				var elements = document.getElementsByClassName("chbox");
-				for (var i = 0, l = elements.length; l > i; i++) {
-					if (elements[i].checked) {
-						dataSources[i].show = true;
-					} else {
-						dataSources[i].show = false;
-					}
+			function syncDataSourceVisibility() {
+				var elements = document.querySelectorAll("#slideMenuCheckBox .chbox");
+				for (var i = 0, l = elements.length; i < l; i++) {
+					applyCzmlVisibility(i, elements[i].checked);
 				}
-			})
+			}
+
+			$("#slideMenuCheckBox")
+				.off("change", ":checkbox")
+				.on("change", ":checkbox", function () {
+					var index = Number(this.getAttribute("data-index"));
+					if (!isNaN(index)) {
+						applyCzmlVisibility(index, this.checked);
+					} else {
+						syncDataSourceVisibility();
+					}
+				});
+
+			syncDataSourceVisibility();
 		}
 	</script>
 

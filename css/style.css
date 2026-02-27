@@ -11,6 +11,13 @@ html, body, #cesiumContainer {
     background-color:black;
 }
 
+:root {
+	--glass-bg: rgba(255, 255, 255, 0.2);
+	--glass-bg-strong: rgba(255, 255, 255, 0.28);
+	--glass-border: 1px solid rgba(255, 255, 255, 0.35);
+	--glass-shadow: 0 8px 20px rgba(0, 0, 0, 0.28);
+}
+
 h2 {
     font-size:13px;
     font-weight:bold;
@@ -66,7 +73,11 @@ a.tooltip:hover span{
 	padding:0px;
 	margin:0px;
 	z-index:10001;
-	background-color:rgba(255,255,255,0.9);
+	background-color: var(--glass-bg-strong);
+	border: var(--glass-border);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+	box-shadow: var(--glass-shadow);
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -85,7 +96,8 @@ a.tooltip:hover span{
 	padding:5px 24px;
 	overflow:hidden;
 	color:#000;
-	background-color:rgba(255,255,255,0.5);
+	background-color: rgba(255, 255, 255, 0.3);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.4);
 }
 
 button.cesium-infoBox-close {
@@ -96,6 +108,14 @@ button.cesium-infoBox-close {
     stroke: #FFF;
     stroke-width: 0px;
     opacity:0.7;
+}
+
+.cesium-baseLayerPicker-sectionTitle,
+.cesium-baseLayerPicker-categoryTitle,
+.cesium-baseLayerPicker-itemLabel,
+.cesium-baseLayerPicker-selectedItem .cesium-baseLayerPicker-itemLabel {
+	color: #fff;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9);
 }
 
 /*ボタン群*/
@@ -155,11 +175,15 @@ button.cesium-infoBox-close {
     top: 48px;
     left: 8px;
     width: 150px;
-    opacity:0.6;
+    opacity:1;
     padding:4px 0px 4px 2px;
     margin:0px;
     margin-bottom:0px;
-    background:white;
+    background: var(--glass-bg);
+    border: var(--glass-border);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    box-shadow: var(--glass-shadow);
     text-align:left;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -172,11 +196,15 @@ button.cesium-infoBox-close {
     top: 48px;
     right: -200px;
     width: 100px;
-    opacity:0.8;
+    opacity:1;
     padding:10px 10px 10px 10px;
     margin:0px;
     margin-bottom:0px;
-    background:white;
+    background: var(--glass-bg);
+    border: var(--glass-border);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    box-shadow: var(--glass-shadow);
     text-align:left;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -188,6 +216,8 @@ button.cesium-infoBox-close {
 	padding:0;
 	margin:0;
 	font-size:10px;
+	color:#fff;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
 }
 
 input {
@@ -200,6 +230,8 @@ label{
 	margin:0px 0px 2px 0px;
 	padding:0px;
 	height:12px;
+	color:#fff;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 
 label, input[type='checkbox'] {
@@ -239,20 +271,39 @@ label, input[type='checkbox'] {
 /*ジオコーディング*/
 
 .geocode {
-	opacity:0.7;
+	opacity:1;
 	position:absolute;
-	top:18px;
+	top:12px;
 	left:55px;
 	z-index:10001;
+	padding: 3px;
+	border-radius: 8px;
+	background: var(--glass-bg);
+	border: var(--glass-border);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
+	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.22);
 }
 
-.textbox {
+form.textbox {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+input.textbox {
 	border:0;
 	margin:0px;
-	padding:0px 0px 1px 2px;
+	padding: 1px 6px;
 	font-size:12px;
 	width:100px;
-	height:15px;
+	height:16px;
+	background: transparent;
+	color: #fff;
+}
+
+input.textbox::placeholder {
+	color: rgba(255, 255, 255, 0.92);
 }
 
 /* ストリートビュー関連 */
@@ -264,11 +315,14 @@ label, input[type='checkbox'] {
 	width: 100%;
 	height: 45%;
 	display: none;
-	background-color:rgba(0,0,0,0.1);
+	background-color: var(--glass-bg);
+	border: var(--glass-border);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
 	z-index:20000;
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
-    box-shadow: 0 0 8px;
+    box-shadow: var(--glass-shadow);
 }
 #streetView {
 	position: absolute;
@@ -287,29 +341,21 @@ label, input[type='checkbox'] {
 	position: absolute;
 	right: 2px;
 	top: 7px;
-	background: #3498db;
-	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
-	background-image: -moz-linear-gradient(top, #3498db, #2980b9);
-	background-image: -ms-linear-gradient(top, #3498db, #2980b9);
-	background-image: -o-linear-gradient(top, #3498db, #2980b9);
-	background-image: linear-gradient(to bottom, #3498db, #2980b9);
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
+	background: rgba(255, 255, 255, 0.25);
+	border: var(--glass-border);
+	-webkit-backdrop-filter: blur(8px);
+	backdrop-filter: blur(8px);
 	border-radius: 28px;
-	font-family: Arial;
+	font-family: sans-serif;
 	color: #ffffff;
 	font-size: 24px;
 	padding: 5px 12px 5px 12px;
 	text-decoration: none;
+	box-shadow: 0 5px 12px rgba(0, 0, 0, 0.22);
 }
 
 .btn:hover {
-	background: #3cb0fd;
-	background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-	background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-	background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-	background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-	background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+	background: rgba(255, 255, 255, 0.36);
 	text-decoration: none;
 }
 
@@ -349,7 +395,8 @@ label, input[type='checkbox'] {
     color:white;
     line-height:14px;
     text-align:center;
-    font-family:sans-serif; 
+    font-family:sans-serif;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.7);
 }
 
 /* タイムライン */
@@ -397,6 +444,12 @@ label, input[type='checkbox'] {
     padding:0;
 }
 
+#osmCredit a,
+#osmCredit2d a {
+	color: rgba(255, 255, 255, 0.92);
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.9);
+}
+
 #osmCredit2d {
     position:absolute;
     bottom:2px;
@@ -421,15 +474,20 @@ label, input[type='checkbox'] {
 
 .entity-modal-dialog {
 	position: fixed;
-	width: min(360px, calc(100% - 20px));
+	width: fit-content;
+	max-width: min(420px, calc(100% - 20px));
 	max-height: min(52vh, 360px);
 	overflow-y: auto;
-	background: rgba(255, 255, 255, 0.96);
-	color: #222;
+	background: var(--glass-bg-strong);
+	color: #fff;
+	border: var(--glass-border);
+	-webkit-backdrop-filter: blur(12px);
+	backdrop-filter: blur(12px);
 	border-radius: 8px;
-	box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
-	padding: 10px 12px 10px 12px;
+	box-shadow: var(--glass-shadow);
+	padding: 10px 12px 4px 12px;
 	pointer-events: auto;
+	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85);
 }
 
 .entity-modal-close {
@@ -446,13 +504,18 @@ label, input[type='checkbox'] {
 
 .entity-modal-title {
 	margin: 0 20px 6px 0;
-	font-size: 14px;
+	font-size: 12.5pt;
 	line-height: 1.3;
+	color: #fff;
 }
 
 .entity-modal-body {
 	font-size: 12px;
 	line-height: 1.45;
+	white-space: normal;
+	word-break: break-word;
+	color: #fff;
+	margin-bottom: 0;
 }
 
 /*スライダー整形*/
